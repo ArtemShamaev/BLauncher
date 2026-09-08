@@ -1,0 +1,25 @@
+filename = 'create-aeronautics-bundled-1.21.1-1.3.1.jar'
+name = 'Create Aeronautics'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create Aeronautics 1.3.1 for mc1.21.1'
+
+[download]
+hash = '15d273d891578d583aa142354b63ed70f87fee62'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8666959
+project-id = 676721
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1312371'
+type = 'REQUIRED'

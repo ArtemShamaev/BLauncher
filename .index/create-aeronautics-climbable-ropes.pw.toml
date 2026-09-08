@@ -1,0 +1,29 @@
+filename = 'climbable_ropes-2.1.1.jar'
+name = 'Climbable Ropes for Create Aeronautics'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[2.1.1] Climbable Ropes'
+
+[download]
+hash = 'ef3d22aa3281be20583d5170530a8aaab8449b06'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8464450
+project-id = 1528764
+
+[[x-prismlauncher-dependencies]]
+addonId = '658587'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1312371'
+type = 'REQUIRED'

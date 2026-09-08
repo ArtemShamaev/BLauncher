@@ -1,0 +1,21 @@
+filename = 'reliable_recipes-neoforge-1.21.1-3.1.5.jar'
+name = 'Reliable Recipes'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Reliable Recipes Neoforge 1.21.1 - 3.1.5'
+
+[download]
+hash = '923ac76239144af9b0a649c52cf5da27057aceb8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8682173
+project-id = 1414959
+
+[[x-prismlauncher-dependencies]]
+addonId = '667299'
+type = 'REQUIRED'

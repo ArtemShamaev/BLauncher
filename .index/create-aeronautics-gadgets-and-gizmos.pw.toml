@@ -1,0 +1,21 @@
+filename = 'createthrusters-bundled-V1.1.3.jar'
+name = 'Create Aeronautics: Gadgets & Gizmos'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Gadgets & Gizmos - 1.1.3'
+
+[download]
+hash = 'd29df5e23a6aee1171b08b424d73c02d6fc3dd6e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8523257
+project-id = 1537945
+
+[[x-prismlauncher-dependencies]]
+addonId = '676721'
+type = 'REQUIRED'
